@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "mongoDBUrl": "mongodb+srv://a21mj0n:4150836@cluster0.7s8qx.mongodb.net/mevnshop?retryWrites=true&w=majority",
+  "JWTSecretKey": "a21mj0n_secret"
+}
