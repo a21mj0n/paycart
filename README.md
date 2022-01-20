@@ -1,6 +1,6 @@
 # Paycart
 
-clone repository
+Clone repository
 ```
 git clone <repository-url>
 ```
